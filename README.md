@@ -1,4 +1,4 @@
-# sales-profit-analytics-dashboard
+
 # Retail Business Performance & Profitability Dashboard
 
 ## Project Overview
